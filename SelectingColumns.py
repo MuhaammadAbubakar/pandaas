@@ -16,3 +16,6 @@ print(select_columns)
 #select multiple columns by this method
 select_multiple = df[["name","age","salary"]]
 print(select_multiple)
+
+select_multiple = df[["name","age","salary","performance"]]
+print(select_multiple)
