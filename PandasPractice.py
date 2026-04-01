@@ -2,8 +2,6 @@ import pandas as pd
 
 #load the data and how to read
 df = pd.read_csv(r"C:\Users\rajas\Desktop\pandas practice\pandaas\PIA_2026_Advanced_Kaggle_Dataset.csv")
-print(df)
-print(df.shape)
 
 #print atleast first 5 rows
 print("Print first 5 rows")
