@@ -7,7 +7,7 @@ data = {
     "performance":[72,75,68,89,92,78]
 }
 df = pd.DataFrame(data)
-print(df)
+
 #select one column only by this method
 
 select_columns = df["name"]

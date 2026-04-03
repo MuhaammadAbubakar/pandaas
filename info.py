@@ -1,3 +1,5 @@
+#by using the info function we get the information about the data 
+# like how many columns and how many rows in it
 import pandas as pd
 
 data = {

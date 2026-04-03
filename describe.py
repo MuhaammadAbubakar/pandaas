@@ -1,3 +1,4 @@
+#by using the describe function we get the statistical summary of the data like mean,medium,mode,min,max,std
 import pandas as pd
 
 data = {
