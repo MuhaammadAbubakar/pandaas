@@ -10,4 +10,4 @@
 - get statistical summary of the data
 - select columns one by one and multiple columns
 - filter rows based on condition
-
+- adding a column by direct method and by using the insert method
