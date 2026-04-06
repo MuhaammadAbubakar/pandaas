@@ -1,7 +1,7 @@
-
+#adding a column by direct method and by using the insert method
 import pandas as pd
 
-import pandas as pd
+
 
 data = {
     "Firstname":["raja","rani","ahmed","zia","hira","liaba"],
