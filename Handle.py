@@ -8,6 +8,7 @@ data = {
     "performance":[72,75,None,89,92,78]
 }
 df = pd.DataFrame(data)
+print(df)
 
 #drop values if we remove specific rows and columns by using axis =0,1
 df.dropna(inplace=True)
