@@ -12,7 +12,7 @@ print(df)
 
 #drop values if we remove specific rows and columns by using axis =0,1
 df.dropna(inplace=True)
-print(df)
+
 
 #fill value by using fillna() method
 df.fillna(5,inplace=True)
