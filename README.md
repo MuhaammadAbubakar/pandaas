@@ -13,3 +13,4 @@
 - adding a column by direct method and by using the insert method
 - removing rows and columns
 - updating values in a dataframe
+- update
