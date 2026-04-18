@@ -12,11 +12,11 @@ data = {
 
 }
 df = pd.DataFrame(data)
-print(df)
+#print(df)
 
 #adding a column by direct method
-df["bonus"] = df["salary"] * 0.1
-print(df)
+#df["bonus"] = df["salary"] * 0.1
+#print(df)
 
 #adding a column by using the insert method
 df.insert(1,"Lastname",["sb","sahiba","jutt","khan","mani","rajput"])
